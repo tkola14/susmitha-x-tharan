@@ -83,13 +83,13 @@ export default function HomePage() {
           </p>
 
           {/* CTA — View Events only, no RSVP from home */}
-          <div className="flex justify-center animate-fade-in" style={{ animationDelay: '0.85s' }}>
+          {/* <div className="flex justify-center animate-fade-in" style={{ animationDelay: '0.85s' }}>
             <Link href="/events"
               className="inline-flex items-center justify-center px-8 py-3.5 rounded-full text-white font-jost text-xs tracking-widest uppercase hover:scale-105 transition-transform"
               style={{ background: 'linear-gradient(135deg,#7A1C38,#A0720A)' }}>
               View Events
             </Link>
-          </div>
+          </div> */}
         </div>
 
         {/* Scroll cue */}

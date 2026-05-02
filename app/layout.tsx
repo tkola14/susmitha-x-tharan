@@ -11,7 +11,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: 'Susmitha & Tharan — Wedding',
   description: 'Join us in celebrating the wedding of Susmitha Chowdary Nallamothu and Tharan Yogesh Kolani on July 3, 2026',
-  icons: { icon: '/images/logo-ts.jpg' },
+  icons: { icon: '/images/logo-final.jpg' },
   openGraph: {
     title: 'Susmitha & Tharan — Wedding Invitation',
     description: 'July 3, 2026 · Elegance Estates Ranch, Pilot Point, TX',
